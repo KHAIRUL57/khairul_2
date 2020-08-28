@@ -1,0 +1,39 @@
+{
+  "Menu": [
+    {
+      "makanan": "Ayam Penyet",
+      "minuman": "Teh obeng",
+      "hidanganPenutup": "es buah",
+      "jumlah": "35.000",
+      "id": 4
+    },
+    {
+      "makanan": "Nasi Goreng",
+      "minuman": "Jus Alpukat",
+      "hidanganPenutup": "Puding",
+      "jumlah": "55.000",
+      "id": 5
+    },
+    {
+      "makanan": "Ayam Sambal Ijo",
+      "minuman": "Jus melon",
+      "hidanganPenutup": "Pie Manis",
+      "jumlah": "45.000",
+      "id": 6
+    },
+    {
+      "makanan": "Mie Goreng",
+      "minuman": "Air Putih",
+      "hidanganPenutup": "##",
+      "jumlah": "18.000",
+      "id": 7
+    },
+    {
+      "makanan": "Nasi Uduk",
+      "minuman": "Teh Panas",
+      "hidanganPenutup": "Biskuit",
+      "jumlah": "23.000",
+      "id": 8
+    }
+  ]
+}
